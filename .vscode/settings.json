@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3.7",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.venvPath": "/Users/tom/anaconda3/envs"
+}
